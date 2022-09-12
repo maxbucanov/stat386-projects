@@ -10,9 +10,9 @@ This the repo for the Stat386 blog projects.
 ```
 ---
 layout: post
-title:  "Post Name"
-date:   YYYY-MM-DD
-author: Your name
+title:  "2022-09-13-hw1.md1"
+date:   2022-09-12
+author: Max Bucanov
 description: Short yet informative description
 image: /assets/images/blog-image.jpg
 ---
