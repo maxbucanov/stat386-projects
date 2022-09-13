@@ -13,7 +13,7 @@ layout: post
 title:  "2022-09-13-hw1.md1"
 date:   2022-09-12
 author: Max Bucanov
-description: SHow Machine Learning can help you turn raw data into valuable information
+description: How Machine Learning can help you turn raw data into valuable information
 image: /assets/images/blog-image.jpg
 ---
 ```
