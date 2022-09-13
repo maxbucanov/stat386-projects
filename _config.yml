@@ -21,7 +21,7 @@
 title: Data Science and Machine Learning Blog # Make a title for your blog
 email: maxim.bucanov@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- This blog is about how data Science and Machine Learning can help you make business decisions by converting raw data into useful and helpful information.
+ This blog is about how Data Science and Machine Learning can help you make business decisions by converting raw data into useful and helpful information.
  
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://maxbucanov.github.io" #  change this to "https://<your-github-username>.github.io"
