@@ -27,7 +27,7 @@ baseurl: "/stat386-projects" # keep this the same or change it to the name of th
 url: "https://maxbucanov.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/Machine learning image.jpeg"
 author: Max Bucanov
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+copyright: maxbucanov # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username: 
